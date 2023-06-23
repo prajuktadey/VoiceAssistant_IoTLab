@@ -28,7 +28,7 @@ To use the voice assistant, follow these steps:
 
 1.  Clone the project repository or obtain the source code files through any other means.
 
-2.  Open the Python script (e.g., `version1.5.py`) in a text editor or an integrated development environment (IDE).
+2.  Open the Python script (e.g., `main.py`) in a text editor or an integrated development environment (IDE).
 
 3.  Make sure you have an API key from OpenAI. Replace the placeholder `'YOUR-KEY-HERE'` with your actual API key in the script.
 
@@ -36,7 +36,7 @@ To use the voice assistant, follow these steps:
 
 5.  Run the script using the following command:
 
-    `python version1.5.py`
+    `python main.py`
 
 6.  The voice assistant will start listening for voice commands. You can interact with it by speaking out commands such as "switch on the lights," "switch off the lights," "time now," or "date today."
 
